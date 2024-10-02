@@ -31,6 +31,6 @@
 *.out
 *.app
 
-
+# Add additional ignore list
 Debug/
 .vs
